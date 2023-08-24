@@ -1,4 +1,4 @@
-#PythonGeeks program to generate a random password
+#Python program to generate a random password
 #Import the necessary modules
 import random
 from tkinter import messagebox
@@ -33,19 +33,19 @@ character_string = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567
 #Define the user interface
 password_gen  = Tk()
 password_gen.geometry("350x200")
-password_gen.title("PythonGeeks Password Generator")
+password_gen.title("Python Password Generator")
 
 #Mention the title of the app
-title_label = Label(password_gen, text="PythonGeeks Password Generator", font=('Ubuntu Mono',12))
+title_label = Label(password_gen, text="Python Password Generator", font=('Ubuntu Mono',12))
 title_label.pack()
 
 #Read length 
-length_label = Label(password_gen, text="Enter length of password: ")
+length_label = Label(password_gen, text="Password length (enter whole number): ")
 length_label.place(x=20,y=30)
 length_entry = Entry(password_gen, width=3)
-length_entry.place(x=190,y=30)
+length_entry.place(x=300,y=30)
 #Read repetition
-repeat_label = Label(password_gen, text="Repetition? 1: no repetition, 2: otherwise: ")
+repeat_label = Label(password_gen, text="Can repeat characters? 1: No, 2: Yes (enter number):")
 repeat_label.place(x=20,y=60)
 repeat_entry = Entry(password_gen, width=3)
 repeat_entry.place(x=300,y=60)
