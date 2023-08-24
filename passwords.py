@@ -6,7 +6,7 @@ from tkinter import *
 #password generator function
 def generate_password():
   try:
-    repear = int(repeat_entry.get())
+    repeat = int(repeat_entry.get())
     length = int (length_entry.get())
   except:
     messagebox.showerror(message="Please put the required inputs.")
