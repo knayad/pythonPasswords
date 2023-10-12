@@ -13,3 +13,7 @@ This program should not require any extra module installations, since Tkinter sh
 # additional information
 
 The idea for this project was found on Python Geeks and can be found here: https://pythongeeks.org/python-password-generator/#google_vignette
+
+# future updates
+ - Connect to MongoDB
+ (https://www.mongodb.com/languages/python)
