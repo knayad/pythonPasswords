@@ -37,3 +37,5 @@ The idea for this project was found on Python Geeks and can be found here: https
 
 - Connect to MongoDB
   (https://www.mongodb.com/languages/python)
+
+- Improve styling for a more modern look
