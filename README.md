@@ -21,8 +21,13 @@ As you can see, there are two inputs:
    Option 2 will allow repeat characters.
 
 ![Options entered](image-1.png)
-Select a password length.
+
+Select a password length and enter a whole number.
 For the repeat characters, enter either the number 1 or the number 2.
+
+Click the "Generate Password" button and a unique password will be generated. The password will be displayed below the button and to the right of the "Create password:" text.
+
+![Unique password](image-2.png)
 
 # additional information
 
