@@ -9,6 +9,7 @@ Passwords are the linchpin for many programs to keep your information safe. Gene
 This program should not require any extra module installations, since Tkinter should already be build-in. However, if there is a run error, try reinstalling python.
 
 This is the initial screen.
+
 ![Initial generator](image.png)
 
 As you can see, there are two inputs:
@@ -19,7 +20,9 @@ As you can see, there are two inputs:
    Option 1 won't allow repeat characters.
    Option 2 will allow repeat characters.
 
-   Enter either the number 1 or the number 2.
+![Options entered](image-1.png)
+Select a password length.
+For the repeat characters, enter either the number 1 or the number 2.
 
 # additional information
 
