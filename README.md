@@ -8,6 +8,8 @@ Passwords are the linchpin for many programs to keep your information safe. Gene
 
 This program should not require any extra module installations, since Tkinter should already be build-in. However, if there is a run error, try reinstalling python.
 
+![Initial generator](image.png)
+
 # additional information
 
 The idea for this project was found on Python Geeks and can be found here: https://pythongeeks.org/python-password-generator/#google_vignette
