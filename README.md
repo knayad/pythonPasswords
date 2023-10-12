@@ -29,13 +29,13 @@ Click the "Generate Password" button and a unique password will be generated. Th
 
 ![Unique password](image-2.png)
 
-# additional information
-
-The idea for this project was found on Python Geeks and can be found here: https://pythongeeks.org/python-password-generator/#google_vignette
-
 # future updates
 
 - Connect to MongoDB
   (https://www.mongodb.com/languages/python)
 
 - Improve styling for a more modern look
+
+# additional information
+
+The idea for this project was found on Python Geeks and can be found here: https://pythongeeks.org/python-password-generator/#google_vignette
